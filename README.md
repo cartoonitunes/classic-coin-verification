@@ -2,7 +2,7 @@
 
 Proof of source code for Classic Coin:
 
-- [`0x7B484f9272C9b17e28A5D87d63820F31Be92B6E7`](https://ethereumhistory.com/contracts/0x7B484f9272C9b17e28A5D87d63820F31Be92B6E7) — deployed Jan 10 2016 (block 826,605)
+- [`0x7B484f9272C9b17e28A5D87d63820F31Be92B6E7`](https://ethereumhistory.com/contract/0x7B484f9272C9b17e28A5D87d63820F31Be92B6E7) — deployed Jan 10 2016 (block 826,605)
 
 ## Contract
 
